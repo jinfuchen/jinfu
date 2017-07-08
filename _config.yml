@@ -7,22 +7,22 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+url: http://jinfuchen.github.io/jinfu
+author: jinfu chen
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /jinfu/
-title: Bajin's Resume
+title: Bajin
 name: Jinfu Chen
 email: bajin886@gmail.com
 email_full: bajin886@gmail.com
 website: jinfuchen/github.io/jinfu
 website_full: https://jinfuchen/github.io/jinfu
 github: trending
-tel: +44 0000 000000
-tel_full: tel:+440000000000
+tel: +1 888-888-8888
+tel_full: tel:+1-888-888-8888
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address: 44 Perth Street
 postcode: EH3 5BL
