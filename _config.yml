@@ -19,7 +19,7 @@ name: Jinfu Chen
 email: bajin886@gmail.com
 email_full: bajin886@gmail.com
 website: jinfuchen/github.io/jinfu
-website_full:https://jinfuchen/github.io/jinfu
+website_full: https://jinfuchen/github.io/jinfu
 github: trending
 tel: +44 0000 000000
 tel_full: tel:+440000000000
@@ -27,7 +27,7 @@ google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinbu
 address: 44 Perth Street
 postcode: EH3 5BL
 city: Montreal
-country:Canada
+country: Canada
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
