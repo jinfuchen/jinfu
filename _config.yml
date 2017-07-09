@@ -14,19 +14,19 @@ author: jinfu chen
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /jinfu/
-title: Bajin
+title: bajin
 name: Jinfu Chen
 email: bajin886@gmail.com
 email_full: bajin886@gmail.com
 website: homepage
 website_full: https://jinfuchen.github.io/jinfu
 github: jinfu
-tel: +1 888-888-8888
-tel_full: tel:+1-888-888-8888
-#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 2255 Street Mathieu
-postcode: H3H 5BL
-city: Montreal
+tel: 514-848-2424
+tel_full: tel:+1-514-848-2424
+google_maps: 'https://goo.gl/maps/Zick6WmBVyC2'
+address: 1515 Ste. Catherine Street West
+postcode: H3G 1M8
+city: Montreal, QC
 country: Canada
 #google_analytics: UA-69300817-1
 
