@@ -16,19 +16,19 @@ author: jinfu chen
 baseurl: /jinfu/
 title: Bajin
 name: Jinfu Chen
-email: email_me
+email: bajin886@gmail.com
 email_full: bajin886@gmail.com
 website: homepage
 website_full: https://jinfuchen.github.io/jinfu
 github: trending
 tel: +1 888-888-8888
 tel_full: tel:+1-888-888-8888
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address: 2255 Street Mathieu
 postcode: H3H 5BL
 city: Montreal
 country: Canada
-google_analytics: UA-69300817-1
+#google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
