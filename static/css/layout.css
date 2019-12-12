@@ -31,12 +31,12 @@ p, address {
 }
 
 .me {
-    width: 1080px;
-    height: 1644px;
+    width: 105px;
+    height: 164px;
     border-radius: 50px;
-    -webkit-border-radius: 50px;
+    -webkit-border-radius: 15px;
     -moz-border-radius: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 header > h1, section > h1 {
