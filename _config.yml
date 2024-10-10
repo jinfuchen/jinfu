@@ -21,12 +21,12 @@ email_full: jinfuchen@whu.edu.cn
 website: homepage
 website_full: https://jinfuchen.github.io/jinfu
 github: jinfuchen
-tel: 514-848-2424
+# tel: 514-848-2424
 tel_full: tel:+1-514-848-2424
 google_maps: 'https://goo.gl/maps/Zick6WmBVyC2'
 address: 299 Bayi Road
-postcode: H3G 1M8
-city: Wuhai, Hubei
+postcode: 430072
+city: Wuhan, Hubei
 country: China
 #google_analytics: UA-69300817-1
 
